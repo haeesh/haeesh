@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @haeesh
+- 👋 Hi, I’m haeesh
 - 👀 I’m interested in web design 
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on new project
